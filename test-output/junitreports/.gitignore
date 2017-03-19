@@ -1,0 +1,9 @@
+/TEST-com.iaditya.testng.factorysample.DependencyTest.xml
+/TEST-com.iaditya.testng.factorysample.SimpleParameterTest.xml
+/TEST-com.iaditya.testng.factorysample.SimpleTest.xml
+/TEST-com.iaditya.testng.parallelsample.IndependentTest.xml
+/TEST-com.iaditya.testng.parallelsample.ParallelClassesTestOne.xml
+/TEST-com.iaditya.testng.parallelsample.ParallelClassesTestTwo.xml
+/TEST-com.iaditya.testng.parallelsample.ParallelMethodTest.xml
+/TEST-com.iaditya.testng.parallelsample.ParallelSuiteTest.xml
+/TEST-com.iaditya.testng.providersample.NewTest.xml
