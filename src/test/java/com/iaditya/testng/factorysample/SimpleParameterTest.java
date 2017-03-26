@@ -2,6 +2,12 @@ package com.iaditya.testng.factorysample;
 
 import org.testng.annotations.Test;
 
+/**
+ * Simple parameter test suite. Too basic.
+ * 
+ * @author adityai
+ *
+ */
 public class SimpleParameterTest {
     private int param;
     

@@ -2,7 +2,19 @@ package com.iaditya.testng.factorysample;
 
 import org.testng.annotations.Factory;
 
+/**
+ * Simple Factory class to trigger dependency tests
+ * 
+ * @author adityai
+ *
+ */
 public class DependencyTestFactory {
+	
+	/**
+	 * Simple Factory method to trigger dependency tests
+	 * 
+	 * @return
+	 */
     @Factory
     public Object[] factoryMethod() 
     {
